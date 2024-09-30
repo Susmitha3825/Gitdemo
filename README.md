@@ -1,2 +1,2 @@
 # Gitdemo
-This is for GIt
+This is for Git
